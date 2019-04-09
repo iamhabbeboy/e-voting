@@ -7,7 +7,7 @@
 <?php endif ?>
 <div class="container">
     <div style="margin-left:20px;">
-     <h3>Staff Information</h3>
+     <h3>Student Information</h3>
      <hr>
     </div>
 
