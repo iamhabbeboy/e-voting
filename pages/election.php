@@ -5,7 +5,7 @@
 
 <div class="container">
     <div style="margin-left:20px;">
-        <h3>Promotional Exam</h3>
+        <h3>Add Election Type</h3>
         <hr>
     </div>
 
