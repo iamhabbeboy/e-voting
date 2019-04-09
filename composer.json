@@ -1,0 +1,17 @@
+{
+    "name": "mac/eappraisal",
+    "authors": [
+        {
+            "name": "Azeez Abiodun",
+            "email": "iamhabbeboy@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abiodun\\App\\": "App/",
+            "Abiodun\\Model\\": "Model/",
+            "Abiodun\\Exception\\": "Exception/"
+        }
+    }
+}
