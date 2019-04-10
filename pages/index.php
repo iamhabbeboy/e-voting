@@ -14,12 +14,12 @@
                 <h4>Login <i class="fa fa-lock"></i></h4>
 
                 <div class="form-group">
-                    <label for="">Email Address</label>
-                    <input type="text" class="form-control" name="email">
+                    <label for="">Matric No</label>
+                    <input type="text" class="form-control" name="email" required>
                 </div>
                 <div class="form-group">
                     <label for="">Password</label>
-                    <input type="password" class="form-control" name="password">
+                    <input type="password" class="form-control" name="password" required>
                 </div>
                 <div class="form-group">
                     <button class="btn btn-primary" style="width: 100%;">Submit <i class="fa fa-chevron-right"></i></button>
@@ -31,13 +31,13 @@
             <form method="post" action="?rel=form&method=create">
                 <h4>Sign Up <i class="fa fa-lock"></i></h4>
                     <label for="">Full Name</label>
-                    <input type="text" class="form-control" name="fullname">
-                    <label for="">Email Address</label>
-                    <input type="text" class="form-control" name="email">
+                    <input type="text" class="form-control" name="fullname" required>
+                    <label for="">Matric No.</label>
+                    <input type="text" class="form-control" name="email" required>
                     <label for="">Phone Number</label>
-                    <input type="text" class="form-control" name="phone">
+                    <input type="text" class="form-control" name="phone" required>
                     <label for="">Password</label>
-                    <input type="password" class="form-control" name="password">
+                    <input type="password" class="form-control" name="password" required>
                     <!-- <label for="">Confirm Password</label>
                     <input type="password" class="form-control" name="passwd"> -->
                     <br/>
